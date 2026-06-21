@@ -1,0 +1,254 @@
+﻿[
+    {
+        "id":  "wicked",
+        "title":  "위키드",
+        "startDate":  "2021-02-16",
+        "endDate":  "2021-05-02",
+        "theaters":  "샤롯데씨어터"
+    },
+    {
+        "id":  "phantom",
+        "title":  "오페라의 유령",
+        "startDate":  "2023-03-30",
+        "endDate":  "2023-11-19",
+        "theaters":  "샤롯데씨어터, 드림씨어터"
+    },
+    {
+        "id":  "rebecca",
+        "title":  "레베카",
+        "startDate":  "2023-08-19",
+        "endDate":  "2023-11-19",
+        "theaters":  "블루스퀘어"
+    },
+    {
+        "id":  "jekyll",
+        "title":  "지킬앤하이드",
+        "startDate":  "2024-11-29",
+        "endDate":  "2025-05-18",
+        "theaters":  "블루스퀘어"
+    },
+    {
+        "id":  "frankenstein",
+        "title":  "프랑켄슈타인",
+        "startDate":  "2024-06-05",
+        "endDate":  "2024-08-25",
+        "theaters":  "블루스퀘어"
+    },
+    {
+        "id":  "dracula",
+        "title":  "드라큘라",
+        "startDate":  "2026-07-10",
+        "endDate":  "2026-10-18",
+        "theaters":  "LG아트센터 서울"
+    },
+    {
+        "id":  "deathnote",
+        "title":  "데스노트",
+        "startDate":  "2022-04-01",
+        "endDate":  "2022-06-26",
+        "theaters":  "샤롯데씨어터"
+    },
+    {
+        "id":  "mozart",
+        "title":  "모차르트!",
+        "startDate":  "2023-06-15",
+        "endDate":  "2023-08-22",
+        "theaters":  "세종문화회관"
+    },
+    {
+        "id":  "elisabeth",
+        "title":  "엘리자벳",
+        "startDate":  "2022-08-25",
+        "endDate":  "2022-11-13",
+        "theaters":  "블루스퀘어"
+    },
+    {
+        "id":  "hedwig",
+        "title":  "헤드윅",
+        "startDate":  "2021-07-30",
+        "endDate":  "2021-10-31",
+        "theaters":  "샤롯데씨어터"
+    },
+    {
+        "id":  "hero",
+        "title":  "영웅",
+        "startDate":  "2022-12-21",
+        "endDate":  "2023-02-28",
+        "theaters":  "세종문화회관"
+    },
+    {
+        "id":  "laundry",
+        "title":  "빨래",
+        "startDate":  "2023-06-02",
+        "endDate":  "2024-05-26",
+        "theaters":  "대학로 유니플렉스"
+    },
+    {
+        "id":  "happyend",
+        "title":  "어쩌면 해피엔딩",
+        "startDate":  "2020-06-30",
+        "endDate":  "2020-09-13",
+        "theaters":  "대학로 플러스씨어터"
+    },
+    {
+        "id":  "seopyonje",
+        "title":  "서편제",
+        "startDate":  "2017-08-30",
+        "endDate":  "2017-11-05",
+        "theaters":  "광림아트센터"
+    },
+    {
+        "id":  "bonnie",
+        "title":  "보니앤클라이드",
+        "startDate":  "2013-09-04",
+        "endDate":  "2013-10-27",
+        "theaters":  "광림아트센터"
+    },
+    {
+        "id":  "rent",
+        "title":  "렌트",
+        "startDate":  "2023-11-11",
+        "endDate":  "2024-02-25",
+        "theaters":  "디큐브 링크아트센터"
+    },
+    {
+        "id":  "lempicka",
+        "title":  "렘피카",
+        "startDate":  "2024-04-14",
+        "endDate":  "2024-06-30",
+        "theaters":  "홍익대 대학로 아트센터"
+    },
+    {
+        "id":  "cabin",
+        "title":  "캐빈",
+        "startDate":  "2024-03-02",
+        "endDate":  "2024-06-09",
+        "theaters":  "대학로 자유극장"
+    },
+    {
+        "id":  "shadow",
+        "title":  "쉐도우",
+        "startDate":  "2024-05-15",
+        "endDate":  "2024-08-18",
+        "theaters":  "대학로 유니플렉스"
+    },
+    {
+        "id":  "dwarfs",
+        "title":  "난쟁이들",
+        "startDate":  "2023-11-01",
+        "endDate":  "2024-01-21",
+        "theaters":  "대학로 플러스씨어터"
+    },
+    {
+        "id":  "dearevan",
+        "title":  "디어에반핸슨",
+        "startDate":  "2026-08-01",
+        "endDate":  "2026-11-01",
+        "theaters":  "충무아트센터 대극장"
+    },
+    {
+        "id":  "pagwa",
+        "title":  "파과",
+        "startDate":  "2024-03-15",
+        "endDate":  "2024-05-26",
+        "theaters":  "홍익대 대학로 아트센터"
+    },
+    {
+        "id":  "comefromaway",
+        "title":  "컴프롬어웨이",
+        "startDate":  "2023-11-28",
+        "endDate":  "2024-02-18",
+        "theaters":  "광림아트센터"
+    },
+    {
+        "id":  "goddess",
+        "title":  "여신님이 보고 계셔",
+        "startDate":  "2022-11-08",
+        "endDate":  "2023-02-26",
+        "theaters":  "대학로 유니플렉스"
+    },
+    {
+        "id":  "matilda",
+        "title":  "마틸다",
+        "startDate":  "2022-10-05",
+        "endDate":  "2023-02-26",
+        "theaters":  "대성 디큐브아트센터"
+    },
+    {
+        "id":  "chicago",
+        "title":  "시카고",
+        "startDate":  "2024-06-07",
+        "endDate":  "2024-09-29",
+        "theaters":  "디큐브 링크아트센터"
+    },
+    {
+        "id":  "beethoven",
+        "title":  "베토벤",
+        "startDate":  "2026-05-15",
+        "endDate":  "2026-08-31",
+        "theaters":  "예술의전당 오페라극장"
+    },
+    {
+        "id":  "billy",
+        "title":  "빌리 엘리어트",
+        "startDate":  "2021-08-31",
+        "endDate":  "2022-02-13",
+        "theaters":  "디큐브 링크아트센터"
+    },
+    {
+        "id":  "almond",
+        "title":  "아몬드",
+        "startDate":  "2022-04-02",
+        "endDate":  "2022-05-01",
+        "theaters":  "coex 신한카드 artium"
+    },
+    {
+        "id":  "longnight",
+        "title":  "긴긴밤",
+        "startDate":  "2023-12-21",
+        "endDate":  "2024-03-10",
+        "theaters":  "대학로 링크아트센터"
+    },
+    {
+        "id":  "hongryeon",
+        "title":  "홍련",
+        "startDate":  "2024-07-30",
+        "endDate":  "2024-10-20",
+        "theaters":  "대학로 자유극장"
+    },
+    {
+        "id":  "thedays",
+        "title":  "그날들",
+        "startDate":  "2026-06-01",
+        "endDate":  "2026-08-31",
+        "theaters":  "예술의전당 CJ토월극장"
+    },
+    {
+        "id":  "western",
+        "title":  "웨스턴 스토리",
+        "startDate":  "2024-03-02",
+        "endDate":  "2024-06-09",
+        "theaters":  "대학로 유니플렉스"
+    },
+    {
+        "id":  "yumi",
+        "title":  "유미의 세포들",
+        "startDate":  "2024-05-03",
+        "endDate":  "2024-07-28",
+        "theaters":  "국립중앙박물관 극장 용"
+    },
+    {
+        "id":  "sidereus",
+        "title":  "시데레우스",
+        "startDate":  "2024-07-26",
+        "endDate":  "2024-10-13",
+        "theaters":  "대학로 플러스씨어터"
+    },
+    {
+        "id":  "findingkim",
+        "title":  "김종욱 찾기",
+        "startDate":  "2016-06-13",
+        "endDate":  "2027-12-31",
+        "theaters":  "대학로 브릭스씨어터"
+    }
+]
